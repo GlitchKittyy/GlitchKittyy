@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Yanick
 
-## Junior Coder
+## Junior Programmer
 
 - 🌍 Based in The Netherlands
 - 🖥️ Check out my portfolio at [My Website](http://GlitchKittyy.github.io/Portofolie)
