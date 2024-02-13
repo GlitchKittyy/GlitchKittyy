@@ -3,7 +3,7 @@
 ## Junior Programmer
 
 - 🌍 Based in The Netherlands
-- 🖥️ Check out my portfolio at [My Website](http://GlitchKittyy.github.io/Portofolie)
+- 🖥️ Check out my websites at [My Website](https://glitchkittyy.github.io/websites/)
 - 🚀 Currently working on [Python For Beginners](http://github.com/GlitchKittyy/Python-For-Beginners)
 - 🧠 Learning More of C/C++
 - 🤝 Open to collaborating on interesting projects
