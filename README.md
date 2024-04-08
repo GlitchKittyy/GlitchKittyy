@@ -4,8 +4,7 @@
 
 - 🌍 Based in The Netherlands
 - 🖥️ Check out my websites at [My Website](https://glitchkittyy.github.io/websites/)
-- 🚀 Currently working on [Python For Beginners](http://github.com/GlitchKittyy/Python-For-Beginners)
-- 🧠 Learning More of C/C++
+- 🌐 Im working on Learning React
 - 🤝 Open to collaborating on interesting projects
 
 <p align="left">
