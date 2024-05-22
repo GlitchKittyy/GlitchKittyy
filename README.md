@@ -3,8 +3,8 @@
 ## Junior Programmer
 
 - 🌍 Based in The Netherlands
-- 🖥️ Check out my websites at [My Website](https://glitchkittyy.github.io/websites/)
-- 🌐 Im working on Learning React
+- 🌐 Im working on Learning React and on my project Fitnesser.
+- 🔥 Check out Fitnesser [Here](https://glitchkittyy.github.io/Fitnesser/)
 - 🤝 Open to collaborating on interesting projects
 
 <p align="left">
