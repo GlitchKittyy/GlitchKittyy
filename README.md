@@ -3,7 +3,7 @@
 ## Junior Programmer
 
 - 🌍 Based in The Netherlands
-- 🌐 Im working on Learning React and on my project Fitnesser (Private).
+- 🌐 Im working on Learning React and on my project Fitnesser.
 - 🤝 Open to collaborating on interesting projects
 
 <p align="left">
