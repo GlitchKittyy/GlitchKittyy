@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Yanick
 
-## Junior Programmer
+## Programmer
 
 - 🌍 Based in The Netherlands
 - 🌐 Im working on Learning React and on my project Fitnesser.
@@ -36,6 +36,6 @@
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GlitchKittyy&repo=Python-for-beginners&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/GlitchKittyy/Portofolie" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GlitchKittyy&repo=Portofolie&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&locale=en" />
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GlitchKittyy&repo=GlitchKittyy&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&locale=en" />
   </a>
 </div>
